@@ -1,0 +1,47 @@
+code,produits,litrage,PAO au Synth?tique ,type de moteur,Prix de grossiste,prix de grossiste 1,prix de grossiste 2,prix de taillant
+E107746,S-OIL 7 GOLD #9 PAO C3 0W-40 ,1L , 100 % PAO , tout type ,"10,000","13,000","15,000","20,000"
+E107745,S-OIL 7 GOLD #9 PAO C3 0W-40 ,200L, 100 % PAO , tout type ,"1,500,000","1,600,000","1,700,000", - 
+E107742,S-OIL 7 GOLD #9 PAO C3 5W-30 ,4L , melange de PAO et de synth?tique , tout type ,"22,000","25,000","30,000","40,000"
+E107761,S-OIL 7 GOLD #9 C3 5W-40 ,1L , 100% synth?tique , tout type ,"5,200","6,000","7,000","9,000"
+E107757,S-OIL 7 GOLD #9 C3 5W-40 ,4L , 100% synth?tique , tout type ,"20,000","18,500","20,000","26,000"
+E107759,S-OIL 7 GOLD #9 C3 5W-40 ,200L, 100% synth?tique , tout type ,"790,000","840,000","860,000", - 
+E107618,S-OIL 7 RED #9 SN 5W-40 ,1L , 100% synth?tique , essence ,"3,800","4,300","5,000","6,500"
+E107616,S-OIL 7 RED #9 SN 5W-40 ,4L , 100% synth?tique , essence ,"14,000","15,500","17,000","22,000"
+E107612,S-OIL 7 RED #9 SN 5W-40 (200),200L, 100% synth?tique , essence ,"630,000","680,000","720,000", - 
+E107635,S-OIL 7 RED #9 SN 10W-40 ,1L , 100% synth?tique , essence ,"3,500","4,000","4,500","6,000"
+E107633,S-OIL 7 RED #9 SN 10W-40 ,4L , 100% synth?tique , essence ,"13,000","14,500","16,000","21,000"
+E107634,S-OIL 7 RED #9 SN 10W-40 ,200L, 100% synth?tique , essence ,"590,000","650,000","715,000", - 
+E107776,S-OIL 7 GOLD #9 A3/B4 5W-30 ,1L , 100% synth?tique , gasoil ,"4,000","4,500","5,000","6,500"
+E107772,S-OIL 7 GOLD #9 A3/B4 5W-30 ,5L , 100% synth?tique , gasoil ,"18,000","20,000","22,000","28,500"
+E107755,S-OIL 7 GOLD #9 ECO C3 5W-30 ,1L , 100% synth?tique , gasoil ,"4,200","4,700","5,200","7,000"
+E107751,S-OIL 7 GOLD #9 ECO C3 5W-30 ,5L , 100% synth?tique , gasoil ,"19,000","22,000","25,000","33,000"
+E107753,S-OIL 7 GOLD #9 ECO C3 5W-30 ,200L, 100% synth?tique , gasoil ,"720,000","780,000","820,000", - 
+E107880,S-OIL 7 BLUE #7 CI-4/SL 10W-40 (20),20L, 100% semi-synth?tique ," gasoil
+(camion et bus) ","70,000","77,000","85,000","110,000"
+E107879,S-OIL 7 BLUE #7 CI-4/SL 10W-40,200L, 100% semi-synth?tique ," gasoil
+(camion et bus) ","680,000","720,000","760,000",
+E107848,S-OIL 7 BLUE #9 CI-4/SL 15W-40,1L , 100% synth?tique ," gasoil
+(camion et bus) ","4,000","4,500","5,000","7,000"
+E107844,S-OIL 7 BLUE #9 CI-4/SL 15W-40 ,5L , 100% synth?tique ," gasoil
+(camion et bus) ","18,000","20,000","22,000","30,000"
+E107847,S-OIL 7 BLUE #9 CI-4/SL 15W-40 ,20L, 100% synth?tique ," gasoil
+(camion et bus) ","70,000","77,000","85,000","110,000"
+E107846,S-OIL 7 BLUE #9 CI-4/SL 15W-40 ,200L, 100% synth?tique ," gasoil
+(camion et bus) ","690,000","740,000","800,000", - 
+962221,HYDRO FLUID AW 68 (20L/ST PL),20L,,,"48,000","53,000","58,500","76,000"
+E107074,HYDRO FLUID AW 68 (200L DM),200L,,,"450,000","480,000","520,000", - 
+E107799,S-OIL 7 GEAR HD 85W-140 ,20L,,,"75,000","82,000","90,000","110,000"
+E107798,S-OIL 7 GEAR HD 85W-140 ,200L,,,"730,000","800,000","860,000", - 
+E107807,S-OIL 7 GEAR HD 80W-90 (1x12),1L ,,,"3,800","4,200","4,700","6,000"
+E107806,S-OIL 7 GEAR HD 80W-90 ,20L,,,"57,000","63,000","69,000","90,000"
+E107805,S-OIL 7 GEAR HD 80W-90 ,200L,,,"560,000","590,000","620,000", - 
+E107821,S-OIL 7 CLEAN ,4L,,,"10,000","11,000","12,000","15,000"
+E107993,S-OIL 7 ATF III ,1L ,, ATF III ,"3,500","4,000","6,000","6,000"
+E107991,S-OIL 7 ATF III (200),200L,, ATF III ,"540,000","580,000","22,000", - 
+E107983,S-OIL 7 ATF VI ,1L , 100% synth?tique , ATF VI ,"4,700","5,200","6,000","8,000"
+E107981,S-OIL 7 ATF VI (4x4),4L, 101% synth?tique , ATF VI ,"18,000","20,000","22,000","30,000"
+E108087,S-OIL 7 ATF VI (200),200L, 100% synth?tique , ATF VI ,"800,000","850,000","890,000",
+970164,S-OIL SUPER COOLANT LL ,3L , LIQUIDE DE REFROIDISSEMENT DRAGON SUPER LL ,,"13,000","14,500","16,000","20,000"
+970464,S-OIL SUPER COOLANT,3L , LIQUIDE DE REFROIDISSEMENT SUPER  ,,"11,000","12,000","13,500","18,000"
+970116,S-OIL BRAKE FLUID DOT 4 ,0.5L ," HUILE DE FREIN
+DOT 4 ",,"3,300","3,600","4,000","5,500"
