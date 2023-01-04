@@ -1,4 +1,5 @@
 from tkinter import * 
+import pandas as pd
 
 class gui(Frame):
     def __init__(self,master):
@@ -26,14 +27,6 @@ class gui(Frame):
         btn3.pack()
 
 
-
-root = Tk()
-root.title("Lazy Button 2")
-root.geometry("500x500")
-app = gui(root)
-things = ["wef", "wef", "we"]
-app.create_dropdown(things)
-root.mainloop()
 
 
 
