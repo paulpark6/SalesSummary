@@ -1,12 +1,15 @@
 from tkinter import *
 import pandas as pd
-import gui_interface as g
+import gui_interface
 
 
 root = Tk()
-root.title("Lazy Button 2")
+root.title("DataSet")
 root.geometry("500x500")
-app = g(root)
+app = gui_interface.gui(root)
+
+# import data with pandas
 things = ["wef", "wef", "we"]
 app.create_dropdown(things)
+app.exit()
 root.mainloop()

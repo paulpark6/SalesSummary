@@ -1,2 +1,2 @@
 
-things = ["wef", "wef", "we"]
+root = Tk()

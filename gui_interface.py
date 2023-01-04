@@ -12,20 +12,9 @@ class gui(Frame):
         w = OptionMenu(self.master, variable, *data)
         w.pack()
 
-    def create_widgets(self):
-        #"""Create three buttons"""
-        #Create first buttom
-        btn1 = Button(self.master, text = "I do nothing")
+    def exit(self):
+        btn1 = Button(self.master, text = "quit?", command=self.master.destroy)
         btn1.pack()
-
-        #Create second button
-        btn2 = Button(self.master, text = "T do nothing as well")
-        btn2.pack()
-
-        #Create third button
-        btn3=Button(self.master, text = "I do nothing as well as well")
-        btn3.pack()
-
 
 
 
