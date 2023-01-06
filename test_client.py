@@ -11,5 +11,6 @@ app = gui_interface.gui(root)
 # import data with pandas
 things = ["wef", "wef", "we"]
 app.create_dropdown(things)
+app.create_textInput()
 app.exit()
 root.mainloop()

@@ -12,6 +12,11 @@ class gui(Frame):
         w = OptionMenu(self.master, variable, *data)
         w.pack()
 
+    def create_textInput(self, title = "title", height = 5, width = 20):
+        # adding new label
+        text = Text(self.master, height, width)
+        text.pack()
+        
     def exit(self):
         btn1 = Button(self.master, text = "quit?", command=self.master.destroy)
         btn1.pack()

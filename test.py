@@ -1,17 +1,28 @@
+import pandas as pd
+import gui_interface
 from tkinter import *
 
-OPTIONS = [
-"Jan",
-"Feb",
-"Mar"
-] #etc
+data = pd.read_csv('./DataBase/price_list_AUG.csv')
+produits = data[data['produits'].str.contains('10W-40')]
+sub_data = produits.loc[:,['code','produits', 'litrage']]
 
-master = Tk()
+codes = sub_data['code'].tolist()
+products = sub_data['produits'].tolist()
+literages = sub_data['litrage'].tolist()
 
-variable = StringVar(master)
-variable.set(OPTIONS[0]) # default value
+data_list = list()
+for i in range(len(codes)):
+    str = codes[i] + "\t" + products[i] + "\t" + literages[i]
+    data_list.append(str)
 
-w = OptionMenu(master, variable, *OPTIONS)
-w.pack()
+print(data_list)
 
-mainloop()
+root =Tk()
+root.title("DataSet")
+root.geometry("500x500")
+app = gui_interface.gui(root)
+
+
+app.create_dropdown(data_list)
+app.exit()
+root.mainloop()
